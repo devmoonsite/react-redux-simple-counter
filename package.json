@@ -1,7 +1,7 @@
 {
-  "name": "react redux simple counter",
+  "name": "redux-simple-starter",
   "version": "1.0.0",
-  "description": "react redux simple counter",
+  "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
   "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
   "scripts": {
