@@ -1,7 +1,6 @@
 # React Redux Lecture
-*** 
 
-Simple Counter App
+Code example for react-redux lecture
 
 ```
 	> npm install
