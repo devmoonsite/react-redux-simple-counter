@@ -1,4 +1,5 @@
-# React Redux Class
+# React Redux Lecture
+*** 
 
 Simple Counter App
 
